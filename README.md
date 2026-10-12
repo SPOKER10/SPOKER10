@@ -1,17 +1,5 @@
-```
-..................:.....:%*#::
-..................:.-=:=+:+:*:    OS:               Linux, Windows
-::.:.........%+=#.::+::+*--%--    Uptime:           5+ years in web development
-::..:.:.:::#@=---@:@*--#%%=:*=    Host:             Full Stack Web Developer
-:....:.:..:%+--::-=+:%%%*-+=%%    Kernel:           Laravel, Django
-:....::::::#%===+--:%%%**:-#%=    IDE:              VS Code, GitHub Copilot, Claude
-.:..:-:----*+-#%--:-------::.*
-....::::::::#**===-----------:    Lang.Programming: PHP, Python, JS, TypeScript
-....::::::::+#@%*-:---------:-    Lang.Computer:    HTML, CSS, SQL, JSON, Markdown
-::::::::*%@@::----@@@%------::    Lang.Real:        Romanian, English
-:.:::@@@@@@@...:::@@@@@@@#--::
-:::::@@@@@@@:...:@@@@@@@@@--::    Stack.Back:       Laravel, Symfony, Django, OctoberCMS
-@:::*@@@@@@@:.:.:@@@@@@@@@::::    Stack.Front:      Vue, Vuetify, Next.js, React, Electron
-@=::@@@@@@@@@...@@@@@@@@@@::::    Stack.DB:         MySQL, MariaDB, PostgreSQL
-@@::@@@@@@@@@@:@@@@@@@@@@@@:+%    @webfusion
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
+  <img alt="Mihai Gabriel - Full Stack Web Developer" src="./profile-dark.svg">
+</picture>
